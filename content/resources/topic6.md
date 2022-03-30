@@ -4,6 +4,7 @@ description: This resource provides information on the sixth topic for discussio
   for the course.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21l-004-major-poets-fall-2001/568040c04beec92bc930340ce4616722_topic6.pdf
 file_type: application/pdf
+parent_uid: c0ac6301-069c-8dbf-6c20-f19f7a51aa74
 resourcetype: Document
 title: topic6.pdf
 uid: 568040c0-4bee-c92b-c930-340ce4616722
